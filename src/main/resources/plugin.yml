@@ -1,0 +1,8 @@
+name: SamiMobs
+version: ${project.version}
+main: com.samifying.mobs.SamiMobs
+api-version: 1.16
+prefix: SamiMobs
+authors: [ Pequla ]
+description: Custom mob modification plugin
+website: https://samifying.com/
